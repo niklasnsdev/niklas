@@ -55,5 +55,5 @@
 
 ### 🐍 GitHub Activity Snake:
 <div align="center">
-  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
+  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg"/>
 </div>
